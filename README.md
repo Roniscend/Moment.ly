@@ -45,7 +45,10 @@ Image Loading: Coil (for loading images from URLs)
 Dependency Injection: Hilt
 
 
-https://github.com/user-attachments/assets/90d41a11-1337-4851-bc67-27f9bca3a2b6
+
+
+https://github.com/user-attachments/assets/3108971c-b07f-4312-a0df-96965fcd9d62
+
 
 
 
